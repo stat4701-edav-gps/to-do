@@ -25,6 +25,7 @@ These Other Group tasks will likely need to be broken out in to smaller steps fo
 
 * New Maps:
  * Create Median Distance to Roadbed groupby dataset.
+  * map Median Distance
 
 * Database:
  * Coordinate with Amazon about possible Free account, setup PostgreSQL (SQLite or equiv. ) database.
