@@ -1,7 +1,7 @@
 #To-Do
 To Do list for everyone
 
-##Group tasks:
+#Group tasks:
 * (RC, EB) Formulate questions for Prof. about analytical methods (regression vs. other methods).
 * (SG) Work on SQL queries for random selections (contingent on either database or SQL/csv wrapper). 
 * (All or someone could volunteer to take lead getting started) Start the Presentation outline (https://github.com/stat4701-edav-gps/presentation) - can be edited inline via GitHub website. Edit README.md file.  
@@ -9,6 +9,7 @@ To Do list for everyone
 
 These Other Group tasks will likely need to be broken out in to smaller steps. 
 
+#Individual tasks
 ##Danny:
 ###New vars:
 * Create Census Block flag variable for Park or No Park 
@@ -25,4 +26,8 @@ These Other Group tasks will likely need to be broken out in to smaller steps.
 * Work with Sankara to get SQL queries to pull data out of database for analysts. 
 * Alternatively is this doesn’t work we can look into https://code.google.com/p/gcsvsql/
 
-	
+##Emilie
+
+##Richie
+
+##Sankara
