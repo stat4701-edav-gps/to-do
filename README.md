@@ -11,9 +11,9 @@ These Other Group tasks will likely need to be broken out in to smaller steps fo
 
 #Individual tasks
 
-##Emilie
-
 ##Richie
+
+##Emilie
 
 ##Danny:
 ###New vars:
