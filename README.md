@@ -23,7 +23,7 @@ These Other Group tasks will likely need to be broken out in to smaller steps.
 
 ###Database:
 * Coordinate with Amazon about possible Free account, setup PostgreSQL (SQLite or equiv. ) database.
-* Work with Sankara to get SQL queries to pull data out of database for analysts. 
+* Work with **Sankara** to get SQL queries to pull data out of database for analysts. 
 * Alternatively is this doesn’t work we can look into https://code.google.com/p/gcsvsql/
 
 ##Emilie
