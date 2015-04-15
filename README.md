@@ -10,6 +10,11 @@ To Do list for everyone
 These Other Group tasks will likely need to be broken out in to smaller steps for individual members. 
 
 #Individual tasks
+
+##Emilie
+
+##Richie
+
 ##Danny:
 ###New vars:
 * Create Census Block flag variable for Park or No Park 
@@ -25,9 +30,5 @@ These Other Group tasks will likely need to be broken out in to smaller steps fo
 * Coordinate with Amazon about possible Free account, setup PostgreSQL (SQLite or equiv. ) database.
 * Work with **Sankara** to get SQL queries to pull data out of database for analysts. 
 * Alternatively is this doesn’t work we can look into https://code.google.com/p/gcsvsql/
-
-##Emilie
-
-##Richie
 
 ##Sankara
