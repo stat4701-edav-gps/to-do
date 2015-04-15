@@ -16,19 +16,19 @@ These Other Group tasks will likely need to be broken out in to smaller steps fo
 ##Emilie
 
 ##Danny
-###New vars:
-* Create Census Block flag variable for Park or No Park 
-* Create Census Block flag variable for Buildings or No Buildings.
-* Create Census Block Size variable. 
+* New vars:
+ * Create Census Block flag variable for Park or No Park 
+ * Create Census Block flag variable for Buildings or No Buildings.
+ * Create Census Block Size variable. 
   * Maybe also measure of possible maximum distance across block, 
   * or measure of block compactness
 
-###New Maps:
-* Create Median Distance to Roadbed groupby dataset.
+* New Maps:
+ * Create Median Distance to Roadbed groupby dataset.
 
-###Database:
-* Coordinate with Amazon about possible Free account, setup PostgreSQL (SQLite or equiv. ) database.
-* Work with **Sankara** to get SQL queries to pull data out of database for analysts. 
-* Alternatively is this doesn’t work we can look into https://code.google.com/p/gcsvsql/
+* Database:
+ * Coordinate with Amazon about possible Free account, setup PostgreSQL (SQLite or equiv. ) database.
+ * Work with **Sankara** to get SQL queries to pull data out of database for analysts. 
+ * Alternatively is this doesn’t work we can look into https://code.google.com/p/gcsvsql/
 
 ##Sankara
