@@ -7,6 +7,7 @@ To Do list for everyone
 * (All or someone could volunteer to take lead getting started) Start the Presentation outline (https://github.com/stat4701-edav-gps/presentation) - can be edited inline via GitHub website. Edit README.md file.  
 * (All or someone could volunteer to take lead on scheduling) Figure out which day/time/place for weekend of April 25-26. 
 * Perhaps we should include some kind of interactive component to the project - discuss at next meeting
+ * Good idea!
 
 These Other Group tasks will likely need to be broken out in to smaller steps for individual members. 
 
