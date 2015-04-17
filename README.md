@@ -29,8 +29,8 @@ These Other Group tasks will likely need to be broken out in to smaller steps fo
  * Create Census Block flag variable for Buildings or No Buildings.
  * Create Census Block Size variable. 
   *<s> Maybes 
-   * Maybe also measure of possible maximum distance across block, 
-   * or measure of block compactness</s>
+    * Maybe also measure of possible maximum distance across block, 
+    * or measure of block compactness</s>
  * <s>Create descriptive roabded stats (pandas) file.</s>
  * Merge descriptive describe() stats to Master data file 
 
