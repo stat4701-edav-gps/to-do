@@ -30,6 +30,7 @@ These Other Group tasks will likely need to be broken out in to smaller steps fo
  * Create Census Block Size variable. 
   * Maybe also measure of possible maximum distance across block, 
   * or measure of block compactness
+ * <s>Create descriptive roabded stats (pandas) file.</s>
  * Merge descriptive describe() stats to Master data file 
 
 * New Maps:
