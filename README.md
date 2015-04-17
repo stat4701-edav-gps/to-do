@@ -30,10 +30,11 @@ These Other Group tasks will likely need to be broken out in to smaller steps fo
  * Create Census Block Size variable. 
   * Maybe also measure of possible maximum distance across block, 
   * or measure of block compactness
+ * Merge descriptive describe() stats to Master data file 
 
 * New Maps:
- * Create Median Distance to Roadbed groupby dataset.
-   * map Median Distance
+ * <s>Create Median Distance to Roadbed groupby dataset.</s>
+   * <s>map Median Distance</s>
 
 * Database:
  * <s>Coordinate with Amazon about possible Free account, setup PostgreSQL (SQLite or equiv. ) database.</s>
