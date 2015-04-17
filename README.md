@@ -27,6 +27,7 @@ These Other Group tasks will likely need to be broken out in to smaller steps fo
 * New vars:
  * Create Census Block flag variable for Park or No Park 
  * Create Census Block flag variable for Buildings or No Buildings.
+ 
  *<s>Create Census Block Size variable.</s>
  
  *<s> Maybes 
