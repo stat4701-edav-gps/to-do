@@ -22,6 +22,7 @@ These Other Group tasks will likely need to be broken out in to smaller steps fo
 * Recode and create any new vars
 * Complete the basic exploratory work,
 * and check assumptions etc. for model fitting.
+* Look into big vis package - might be interesting
 
 ##Danny
 * New vars:
