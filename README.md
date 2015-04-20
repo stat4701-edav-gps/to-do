@@ -35,9 +35,7 @@ These Other Group tasks will likely need to be broken out in to smaller steps fo
 * <s>New vars:</s>
  * <s>Create Census Block flag variable for Park or No Park.</s> didn't do, will be a lot more work. Using Block size and count buildings will help for this. 
  * <s>Create Census Block flag variable for Buildings or No Buildings.</s>
- 
  * <s>Create Census Block Size variable.</s>
- 
  * <s> Maybes 
     * Maybe also measure of possible maximum distance across block, 
     * or measure of block compactness </s>
