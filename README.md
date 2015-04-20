@@ -17,6 +17,7 @@ These Other Group tasks will likely need to be broken out in to smaller steps fo
 
 ##Emilie
 * Write out actual research questions 
+ * Could we use [this text from your taxi-analysis repo?](https://github.com/stat4701-edav-gps/taxi-analysis) 
 * Put together analysis plan for larger feedback with **Richie**.
 * Draft a list of questions for review with more spatial stats inclined folks.
 * Recode and create any new vars
