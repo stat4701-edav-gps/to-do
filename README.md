@@ -27,6 +27,9 @@ These Other Group tasks will likely need to be broken out in to smaller steps fo
 
 ##Danny
 
+* Create 3D version of distributed building height for census block, like the buffer one but with block. 
+
+
 * Study sample
  * Determine Census Block size range for SQL statement.
  * Update that SQL code for [BigQuery R code.](https://github.com/stat4701-edav-gps/bigrquery/blob/master/BigQuery.R)
