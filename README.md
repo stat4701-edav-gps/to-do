@@ -28,7 +28,7 @@ These Other Group tasks will likely need to be broken out in to smaller steps fo
 ##Danny
 
 * Create 3D version of distributed building height for census block, like the buffer one but with block. 
-
+* Create a percent block covered with building footprint. 
 
 * Study sample
  * Determine Census Block size range for SQL statement.
