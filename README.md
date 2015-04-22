@@ -14,9 +14,9 @@ These Other Group tasks will likely need to be broken out in to smaller steps fo
 #Individual tasks
 
 ##Richie
-*Create map that combines distance from roadbed and block height
-*Create that map within Crosslet to show the outliers
-*Look into some more statistics, especially with k-means on the heights to see if we can improve the regression.
+* Create map that combines distance from roadbed and block height
+* Create that map within Crosslet to show the outliers
+* Look into some more statistics, especially with k-means on the heights to see if we can improve the regression.
 
 ##Emilie
 * Write out actual research questions 
